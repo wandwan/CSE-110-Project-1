@@ -48,11 +48,11 @@ def hello_world():
 
 [Programming](#programming)
 
-## Relative links
+## Relative linksOnce you are finished, publish your web page through Github Pages - instructions here
 
 [Another Page](./another-page.md)
 
-![Image](./images/image.jpg)
+![Image](image.jpg)
 
 ## Ordered and Unordered Lists
 

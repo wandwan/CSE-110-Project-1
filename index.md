@@ -48,9 +48,9 @@ def hello_world():
 
 [Programming](#programming)
 
-## Relative linksOnce you are finished, publish your web page through Github Pages - instructions here
+## Relative links
 
-[Another Page](./another-page.md)
+[Another Page](./README.md)
 
 ![Image](image.jpg)
 

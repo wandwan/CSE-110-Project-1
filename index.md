@@ -54,6 +54,8 @@ def hello_world():
 
 ![Image](image.jpg)
 
+![Image](random.jpg)
+
 ## Ordered and Unordered Lists
 
 ### Ordered List
